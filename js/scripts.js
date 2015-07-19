@@ -1,1 +1,3 @@
-console.log("sup mofo");
+setInterval(function(){
+  console.log("sup mofo");
+}, 10);
